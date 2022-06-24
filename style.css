@@ -49,13 +49,10 @@ body{
     padding-left: 0px;
 }
 
-.right{
-    display: flex;
+.placeholder{
     width:580px;
-    background-color: lightslategrey;
-    align-items: center;
-    justify-content: center;
 }
+
 
 .header-link{
     display: flex;
@@ -123,10 +120,7 @@ button{
 .imageholder{
     height:155px;
     width:155px;
-    border-color:#3882f6 ;
-    border-radius: 12px;
-    border-width:5px;
-    border-style: solid;
+
 }
 
 .info-title{
